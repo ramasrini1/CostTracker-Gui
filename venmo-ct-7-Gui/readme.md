@@ -9,6 +9,6 @@ PostgreSQL
 Visual Studio (VScode)
 
 ## External API 
-Clicking[Venmo SDK](https://github.com/mmohades/Venmo)
+[Venmo SDK](https://github.com/mmohades/Venmo)
 
 
